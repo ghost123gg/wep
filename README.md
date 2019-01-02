@@ -71,10 +71,3 @@ $ wep.py -i86 /payloads/custom.raw  -i64 /payloads/dummy64.raw --inject64 False 
 ```
 
 Similarly, to generate 64-bit payloads only, create a dummy x86 file and supply it in wep's -i86 command line paramenter.
-
-## License
-
-wep is released under a 3-clause BSD License and maintained by [MWR InfoSecurity](https://mwrinfosecurity.com)
-
-## Credits
-This tool was originally developed by Vincent Yiu ([@vysecurity](https://twitter.com/vysecurity)).
